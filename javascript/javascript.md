@@ -2,6 +2,7 @@ JavaScript хэлний код бичих зөвлөмж
 -----------------------------------
 Эх сурвалжууд:
  *  [Code Conventions for the JavaScript Programming Language](http://javascript.crockford.com/code.html)
+
 Java Script код бичих зөвлөмж 
 Жава скрипт код бичих зөвлөмжүүд, Sun компаний "жава програмчлалын код бичих зөвлөмж" -өөс авсан Жава скрипт бол жава биш
 
